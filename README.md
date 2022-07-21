@@ -16,7 +16,7 @@
 📬 Sinta-se a vontade para me contactar e cooperar, quando quiser!
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-galvao-g15/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="meuwebsite" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="meuwebsite" target="_blank"><img src="https://img.shields.io/badge/Portifólio (EM BREVE)-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
