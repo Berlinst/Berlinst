@@ -1,6 +1,7 @@
 ### Welcome! Eu sou Gabriel Galvão! 🖖
 
-- Trabalho com Design e também com criação e produção de conteúdo digital
+- Sou estudante de ADS (Análise e Desenvolvimento de Sistemas) na UNIJORGE.
+- Trabalho com Design e também com criação e produção de conteúdo digital.
 - Atualmente venho aprendendo e estudando mais sobre Programação, Sistemas e CyberSecurity.
 
 <br>
