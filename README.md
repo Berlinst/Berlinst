@@ -1,4 +1,4 @@
-### Welcome! Eu sou Gabriel Galvão! 🖖
+### Hello World! Gabriel here.
 
 - Sou estudante de ADS (Análise e Desenvolvimento de Sistemas) na UNIJORGE.
 - Trabalho com Design e também com criação e produção de conteúdo digital.
