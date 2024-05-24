@@ -1,8 +1,8 @@
-### Hello World! Gabriel here.
+### Hello World! I'm Gabriel Galvão.
 
-- Sou estudante de ADS (Análise e Desenvolvimento de Sistemas) na UNIJORGE.
-- Trabalho com Design e também com criação e produção de conteúdo digital.
-- Atualmente venho aprendendo e estudando mais sobre Programação, Sistemas e CyberSecurity.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIJORGE.
+- 💻 Estagiário na [Service TIC](https://servicetic.com.br), atuando com diversas ferramentas para prestação de serviços de TI (GLPI, Zabbix, Grafana, Metabase, Power BI), incluindo estudo e implementação de novas tecnologias para otimização de processos e soluções inovadoras.
+- 🎨 Nas horas vagas, trabalho com design gráfico e criação de conteúdos digitais.
 
 <br>
 🖥 Linguagens que venho aprendendo:
