@@ -6,6 +6,8 @@
 
 🚀 Always exploring new technologies to optimize processes and create innovative solutions.
 
+🎨 Graphic Designer (in my free time).
+
 ## 🛠️ Working with: 
 - **IT Infrastructure & Systems** – Linux Servers & Networking 
 - **Monitoring & Observability** – Zabbix & Grafana  
@@ -13,7 +15,7 @@
 
 ## 💻 Currently learning:
 <div>
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=light">
 </div>
 
 ## 📬 Let's Connect:
